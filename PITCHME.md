@@ -6,7 +6,7 @@
 
 ---
 
-> **Can just having practical underdanding of knowledge create Entrepreneurs and Scientists?**
+***Can just having practical underdanding of knowledge create Entrepreneurs and Scientists?***
 
 ---
 
@@ -20,11 +20,11 @@
 
 ---
 
-*** Are we asking our kids to collect the dots (get knowledge) or connect the dots (connect knowledge to create ideas) ? ***
+*** Are we asking our kids to collect the dots or connect the dots ? ***
 
 ---
 
-### Collect the dots
+** Collect the dots **
 
 * Today’s school system teaches students only to collect the dots. i.e collect knowledge.
 * Because education system is created for industrial age. Because knowledge is scarce. So we are thought to collect the dots, scored based on how many dots you have collected.
@@ -33,7 +33,8 @@
 
 ---
 
-### Connect the dots
+** Connect the dots **
+
 * This is before we had super computer in our packet . The current system is created for world with no wikipedia, no google or internet.
 * In new technological age, all the information is just a click away.
 * In future, most of the manual “factory work” will be replaced by machines.
@@ -80,7 +81,7 @@ This will help students to perform good in their Job as employee. But if we want
 
 ---
 
-![Problem solving](https://cdn-images-1.medium.com/max/1000/1*WiAMqTOCReu_7FhkYwI3rQ.png)
+![Problem solving](https://cdn-images-1.medium.com/max/1000/1*WiAMqTOCReu_7FhkYwI3rQ.png&size=50%)
 
 ---
 
