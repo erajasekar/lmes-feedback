@@ -6,7 +6,7 @@
 
 ---
 
-### Can just having practical underdanding of knowledge create Entrepreneurs and Scientists?
+> **Can just having practical underdanding of knowledge create Entrepreneurs and Scientists?**
 
 ---
 
@@ -90,9 +90,9 @@ This will help students to perform good in their Job as employee. But if we want
 
 ---
 
-You are already doing great job to help students to learn practical knowledge. You have more than 5 lakh followers. You work with schools, colleges and conduct workshops. Especially, when I watched your Nakkheeran video, I felt that you have a power to change education for good. You have wonderful wish for india to create entrepreneurs and scientists in India. But you talked about only teaching practical knowledge. So I just want to pass this idea of “connecting dots” more important that “collecting dots” for future jobs. So when creating content, if LMES can also include problem solving skills or tricks to connect the dots, it can really help create entrepreneurs and scientists.
+> LMES already doing great job to help students to learn practical knowledge. They have more than 5 lakh followers. They work with schools, colleges and conduct workshops. I just want to pass this idea of “connecting dots” more important that “collecting dots” for future jobs. So when creating content, if LMES can also include problem solving skills or tricks to connect the dots, it can really help create entrepreneurs and scientists.
 
-Thank you.
+---
 
-## How LMES can help create scientists and entrepreneurs?
+### Thank You.
 
