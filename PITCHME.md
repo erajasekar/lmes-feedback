@@ -6,6 +6,10 @@
 
 ---
 
+##### Can just having practical underdanding of knowledge create Entrepreneurs and Scientists?
+
+###### Can just having practical underdanding of knowledge create Entrepreneurs and Scientists?
+
 > **Can just having practical underdanding of knowledge create Entrepreneurs and Scientists?**
 
 ---
