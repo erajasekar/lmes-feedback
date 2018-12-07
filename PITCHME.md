@@ -2,7 +2,7 @@
 
 ---
 
-![Video](https://www.youtube.com/watch?v=Nq_iXullRLw&t=290s)
+![Video](https://www.youtube.com/watch?v=Nq_iXullRLw)
 
 ---
 
