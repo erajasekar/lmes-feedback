@@ -2,6 +2,10 @@
 
 ---
 
+![Video](https://www.youtube.com/watch?v=Nq_iXullRLw&t=290s)
+
+---
+
 I have been following your videos about Ramar Pillai and saw [this recent interview](https://www.youtube.com/watch?v=Nq_iXullRLw&t=290s) with Nakkheeran Studio in which you talk problems with current school system. I want to share my thoughts about that.
 
 I absolutely agree with you current teaching methods has to be changed for students to get practical understanding of the knowledge. But Is just having practical knowledge is enough for next generation of Jobs..? Here is a question:
