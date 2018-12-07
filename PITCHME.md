@@ -81,7 +81,7 @@ This will help students to perform good in their Job as employee. But if we want
 
 ---
 
-<img src="assets/image/prob-solving.png" alt="Problem solving" width="700px" height="450px">
+<img src="assets/image/prob-solving.png" alt="Problem solving" width="600px" height="500px">
 
 
 ---
