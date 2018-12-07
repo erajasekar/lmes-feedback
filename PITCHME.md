@@ -81,7 +81,7 @@ This will help students to perform good in their Job as employee. But if we want
 
 ---
 
-<img src="https://cdn-images-1.medium.com/max/1000/1*WiAMqTOCReu_7FhkYwI3rQ.png" alt="Problem solving" width="500px" height="400px">
+<img src="assets/image/prob-solving.png" alt="Problem solving" width="600px" height="450px">
 
 
 ---
