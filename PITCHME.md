@@ -1,284 +1,71 @@
-## Spring
+ - - -
+I have been following your videos about Ramar Pillai and saw [this recent interview](https://www.youtube.com/watch?v=Nq_iXullRLw&t=290s) with Nakkheeran Studio in which you talk problems with current school system. I want to share my thoughts about that.
 
-+++
+I absolutely agree with you current teaching methods has to be changed for students to get practical understanding of the knowledge. But Is just having practical knowledge is enough for next generation of Jobs..? Here is a question:
 
-### What is dependecy Injection?
+> Let’s say student’s has good practical knowledge of how computers work. Is that sufficient for them to invent a smart phone..?
 
-Instead of 
+My thoughts are inspired by following Seth Godin’s talk:
 
-```java
-public class A {
-  private B b;
+[Stop Stealing dreams : Seth Godin at TEDxYouth@BFS](https://www.youtube.com/watch?v=sXpbONjV1Jc)
+[Connect the dot’s — Questions about Stop Stealing dreams](https://www.akimbo.me/blog/s-3-e-10-connect-the-dotsq-a-about-stop-stealing-dreams)
 
-  public A() {
-    this.b = new B(); // A *depends on* B
-  }
-  public void DoSomeStuff() {
-    // Do something with B here
-  }
-}
-public static void Main(string[] args) {
-  A a = new A();
-  a.DoSomeStuff();
-}
+I would like to paraphrase little bit of what Seth is talking about to provide some context:
 
-```
-+++
+Are we asking our kids to collect the dots (get knowledge) or connect the dots (connect knowledge to create ideas) ?
 
-You write 
+### Collect the dots
 
-```java
-public class A {
-  private B b;
-  // A now takes its dependencies as arguments
-  public A(B b) { 
-    this.b = b; 
-  }
-  public void DoSomeStuff() {
-    // Do something with B here
-  }
-}
-public static void Main(string[] args) {
-  B b = new B(); // B is constructed here instead
-  A a = new A(b);
-  a.DoSomeStuff();
-}
+* Today’s school system teaches students only to collect the dots. i.e collect knowledge.
+* Because education system is created for industrial age. Because knowledge is scarce. So we are thought to collect the dots, scored based on how many dots you have collected.
+* But school teach nothing about how to connect those dots.
+* We can’t teach connecting dots in a text book.
 
-```
-+++
 
-### Why use dependency injection?
+### Connect the dots
+*  This is before we had super computer in our packet . The current system is created for world with no wikipedia, no google or internet.
+* In new technological age, all the information is just a click away.
+* In future, most of the manual “factory work” will be replaced by machines.
+* So to succeed in future jobs. Students should know how to connect the dots. As Steve Jobs has said:
 
-* Gives you ton of advantages.
-* Ability to control functionality from a central place instead of spreading it throughout your program.
-* Ablity to easily test each class in isolation because you can pass along mocked objects.
-* But the drawback is you have to deal with complexity of wiring all your references in a central place.
-* That's why we use DI Framework like Spring.
+>  Creativity is just connecting things. When you ask creative people how they did something, they feel a little guilty because they didn't really do it, they just saw something. It seemed obvious to them after a while. That's because they were able to connect experiences they've had and synthesize new things.
 
-+++
-### How Spring annotation works?
+Here is a question from school president about above Seth’s point.
 
-Examples 
+How schools can teach students to collect the dots and at the same time ensuring that they collect enough dots pass the test?
 
-UIInstrumentationImplAutoConfiguration
-InstrumentationServiceImpl
-LegacyAppAnalyticsHandler
-LightningInstrumentationConfig
-Flowables
+* People who are happy and successful are not there because they know more stuff or got good grades.
+* They have access to information they need and desire to get it.
+* They also have to insight and intuition to connect disparate streams of information and turn it in to whole new way of thinking.
 
-+++
+So we should stop teaching collecting the dots, instead we need to teach
+* Intention to learn.
+* How to go get it?
 
-### Spring best pratices
+What LMES is doing is great first step of creating “Intention to learn” . You are doing a great job in
+* Making learning fun and interesting
+* Creating curiosity in students to learn.
+* Get practical understanding of knowledge.
 
-* Split you code into API vs IMPL module
-* When creating a new class think if it should be managed by spring or not
-* Generally it's ok to not use DI for value or data classes, util classes 
+This will help students to perform good in their Job as employee. But if we want to create entrepreneurs who can create products or scientists who invent stuff, we also need to teach them to connect dots.
 
-+++
+It is very hard to teach “connecting dots”, but here are few ideas I can think of:
 
-### Caveats in storing state
+1. Don’t simply teach the solution, but fundamental problem solving skills
+* First show wrong way to do it, then how to get insights from it to arrive at correct answer.
+* Encourage students to try something, make mistakes and learn from it.
+* Teaching the process to solve the problem is import that teaching the solution itself.
 
-* Don't manage state of variables in spring managed classes as it will used from multiple threads.
-* If you know some class is thread safe `@NotThreadSafe` to document it.
+![](Email%20to%20Prem%20anand/prob-solving.png)
+* When learning step by step solution to a mathematics problem, most students just memorize the steps. They should learn how to figure out next step by themselves at teach stage.
 
-https://gus.lightning.force.com/lightning/r/0D5B0000007vzcNKAQ/view
+2. Give opportunity for students to figure out
+* In videos, introduce the problem and leave some pause to give a chance for students to figure out themselves. Or
+* Create a teaser video of a problem and show solution in the next video.
 
-https://swarm.soma.salesforce.com/changes/12006421
+You are already doing great job to help students to learn practical knowledge. You have more than 5 lakh followers. You work with schools, colleges and conduct workshops. Especially, when I watched your Nakkheeran video, I felt that you have a power to change education for good. You have wonderful wish for india to create entrepreneurs and scientists in India. But you talked about only teaching practical knowledge. So I just want to pass this idea of “connecting dots” more important that “collecting dots” for future jobs. So when creating content, if LMES can also include problem solving skills or tricks to connect the dots, it can really help create entrepreneurs and scientists.
 
-It was very hard to debug these kind of errors.
-
-+++
-
-### Immutability
-
-> Messing with the state is the root of many problems.
-
-* You should [minimize the state as much as possible](https://medium.com/@rufuszh90/effective-java-item-15-minimise-mutability-2526108ac7f1).
-* Immutable object simplify concurrent programming as there is not shared state, you don't need to synchronize.
-* By default, make a class immutable and use builder pattern if a class has too many fields.
-
-
----
-
-## Functional programming 
-
-+++
-
-### Why use Functional programming?
-
-* Functional programs have no side effects, so it's easier to reason about, easier to test, easier to run concurrent context.
-* OOP abstracts over data, while FP abstracts over behaviour.
-* It expresses what code does instead of how it does.
-
-+++
-
-### Declarative code is easier to Read
-
-* Declarative code is easier to understand then logic expressed in imperative code
-* That's why declarive languages like HTML, SQL are easier than imperative languages.
-
-+++
-
-### Example for Declarative vs Imperative
-
-```javascript
-const tripleMap = numbers => {
-    const triple = [];
-    for (let i = 0; i < numbers.length; i++) {
-        triple.push(numbers[i] * 3);
-    }
-return triple;
-};
-```
-
-Functional Style
-
-```javascript
-consttripleMap = numbers => numbers.map(n => n * 3);
-```
-
-+++
-
-### Requires a paradigm shift
-
-* Learn to think like a [functional programmer](http://nealford.com/functionalthinking.html)
-* Use pure functions, high order functions and functional features added in JDK8.
-
-
-+++
-
-### Example for Imperative Style
-
-Let’s say we want to print day of the week for a given list stream date strings in format MM/dd/YYYY. 
-
-```java
-private static LocalDate parseDate(String dateString) {
-        return LocalDate.from(formatter.parse(dateString));
-    }
-public static void main(String args[]) {
-
-    List<String> dates = Arrays.asList("12/31/2014",
-            "01-01-2015",
-            "12/31/2015",
-            "not a date",
-            "01/01/2016");
-
-    List<DayOfWeek> result = new ArrayList<>();
-    for(String dateString: dates){
-
-        try{
-            LocalDate date = parseDate(dateString);
-            result.add(DayOfWeek.from(date));
-        }catch (Exception e){
-            System.out.println(e.getMessage());
-        }
-
-    }
-}
-
-```
-
-+++
-
-### Example for Functional Style Using optional
-
-```java
-private static Optional<LocalDate> parseDate(String dateString){
-    LocalDate localDate = null;
-    try {
-        localDate = LocalDate.from(formatter.parse(dateString));
-    }catch (DateTimeParseException e){
-        System.out.println(e.getMessage());
-    }
-    return Optional.ofNullable(localDate);
-}
-
-public static void main(String args[]) {
-    Stream.of("12/31/2014",
-            "01-01-2015",
-            "12/31/2015",
-            "not a date",
-            "01/01/2016")
-            .map(StreamExceptionHandling::parseDate)//Parse String to LocalDate
-            .filter(Optional::isPresent) //Filter valid ones
-            .map(Optional::get)//Get wrapped LocalDate
-            .map(DayOfWeek::from) //Map to day of week
-            .forEach(System.out::println); //Print
-}
-```
-
-+++
-
-### Example using Try Monad
-
-We will use Try object from Javaslang which can be either a instance of `Success` or `Failure`
-```java
-
-private static Try<LocalDate> parseDate(String dateString){
-    return Try.of(() -> LocalDate.from(formatter.parse(dateString)));
-}
-private static Try<LocalDate> parseDateAlternate(String dateString){
-    return Try.of(() -> LocalDate.from(alternateFormatter.parse(dateString)));
-}
-public static void main(String args[]) {
-    Stream.of("12/31/2014",
-            "01-01-2015",
-            "12/31/2015",
-            "not a date",
-            "01/01/2016")
-            .map(StreamExceptionHandling::parseDate)//Parse String to LocalDate
-            .map(v-> v.recoverWith( e -> parseDateAlternate(((DateTimeParseException)e).getParsedString())))//Try recovering with alternate formatter
-            .peek(v-> v.onFailure(t -> System.out.println("Failed due to " + t.getMessage())))//Print error on failure
-            .filter(Try::isSuccess)//Filter valids
-            .map(Try::get)//Get wrapped value
-            .map(DayOfWeek::from)//Map to day of week
-            .forEach(System.out::println);//Print
-}
-```
-
-
----
-
-## Important requirements for delivering any feature
-
-+++
-
-### Automated testing
-
-* Have I written automated tests  to verify my feature?
-
-* Learn to use Mocking libraries & Test frameworks
-
-+++
-
-### Logging
-
-* Do I have enough logging to verify my feature works in production?
-
-* Do I have enough information to trouble shoot when something on working?
-
-* Make sure to properly handle and log exceptions.
-
-+++
-
-### Monitoring/Instrumentation
-
-* Do I have easy way to check my feature is working well in production?
-
-* Can I get automated notifications when something goes wrong?
-
----
-
-## Day to Day productivity
-
-* I use intellij and highly recommending it for editing
-
-* I still use eclipse for debugging/hot deploy
-
-* Always whitelist the projects in workspace-user.xml. Just run `ant pre` if you have made a change.
-
-* Try to use git for incremental checkin
-
-
-
+Thank you.
+- - - -
+## How LMES can help create scientists and entrepreneurs?
 
