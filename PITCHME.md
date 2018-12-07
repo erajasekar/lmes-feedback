@@ -6,10 +6,6 @@
 
 ---
 
-##### Can just having practical underdanding of knowledge create Entrepreneurs and Scientists?
-
-###### Can just having practical underdanding of knowledge create Entrepreneurs and Scientists?
-
 > **Can just having practical underdanding of knowledge create Entrepreneurs and Scientists?**
 
 ---
@@ -24,7 +20,7 @@
 
 ---
 
-### Are we asking our kids to collect the dots (get knowledge) or connect the dots (connect knowledge to create ideas) ?
+*** Are we asking our kids to collect the dots (get knowledge) or connect the dots (connect knowledge to create ideas) ? ***
 
 ---
 
