@@ -128,13 +128,16 @@ Shift from Just in case vs Just in time learning.
 
 ---
 
-### LMES can really help create entrepreneurs and scientists.
+** LMES can really help create entrepreneurs and scientists. **
 
-> LMES already doing great job to help students to learn practical knowledge. They have more than 5 lakh followers. They work with schools, colleges and conduct workshops. 
+* LMES already doing great job to help students to learn practical knowledge. 
+* They have more than 5 lakh followers. 
+* They work with schools, colleges and conduct workshops. 
 
-I just want to pass on some ideas so it can benefit lot of students.
 
 ---
+
+** I just want to pass on some ideas so it can benefit lot of students. **
 
 ### Thank You.
 
