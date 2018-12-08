@@ -111,13 +111,13 @@ Instead we need to teach intention to learn.
 
 ** Teach how to learn **
 
-> Today, you need to be a life long learner 
+> Today, you have to be a life long learner 
 
 ---
 
 ** Give opportunity for students to figure out **
 
-* Create a teaser video of a problem and show solution in the next video.
+Create a teaser video of a problem and show solution in the next video.
 
 ---
 
