@@ -8,7 +8,6 @@
 
 ** Is just lack of practical knowledge only problem ? **
 
-> If you know how computer works practically, is that enough to invent smart phone?
 
 *** What LMES can do to create Entrepreneurs and Scientists? ***
 
