@@ -117,8 +117,6 @@ Instead we need to teach intention to learn.
 
 ** Give opportunity for students to figure out **
 
-Create a teaser video of a problem and show solution in the next video.
-
 ---
 
 ### Summary ##
