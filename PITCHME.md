@@ -76,9 +76,7 @@ Instead we need to teach intention to learn and how to think.
 
 ---
 
-### To create entrepreneurs and scientists 
-
-we also need to teach: 
+** To create entrepreneurs and scientists, We also need to teach: **
 
 * How to connect dots to create new ideas ? 
 * How to think ? 
