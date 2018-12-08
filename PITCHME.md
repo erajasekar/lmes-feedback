@@ -36,8 +36,6 @@
 
 >  Creativity is just connecting things - Steve Jobs
 
-Uber is a good example.
-
 ---
 
 ** School teach nothing about how to connect those dots **
@@ -70,7 +68,7 @@ Instead we need to teach intention to learn and how to think.
 
 ** LMES does great job in creating “Intention to learn” **
 
-* Making learning fun and interesting
+* Making learning fun and interesting.
 * Creating curiosity in students to learn.
 * Get practical understanding of knowledge.
 
@@ -110,7 +108,7 @@ Instead we need to teach intention to learn and how to think.
 
 ** Teach how to learn **
 
-Shift from Just in case vs Just in time learning.
+Shift from Just in case to Just in time learning.
 
 > Today, you need to be a life long learner 
 
@@ -122,7 +120,7 @@ Shift from Just in case vs Just in time learning.
 
 ---
 
-### Key Message ##
+### Summary ##
 
 > Education is not the learning of facts, but training the mind to think -- Albert Einstien.
 
