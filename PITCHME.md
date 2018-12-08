@@ -6,7 +6,7 @@
 
 ---
 
-** Is just lack of practical knowledge only problem ? **
+### Is just lack of practical knowledge only problem ? 
 
 
 *** What LMES can do to create Entrepreneurs and Scientists? ***
