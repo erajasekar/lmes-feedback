@@ -1,4 +1,4 @@
-## How LMES can help create scientists and entrepreneurs?
+## How LMES can help create Scientists and Entrepreneurs?
 
 ---
 
@@ -6,21 +6,21 @@
 
 ---
 
-*** Is just teaching practical underdanding of knowledge enough to Entrepreneurs and Scientists? ***
+** Is just lack of practical knowledge only problem ? **
+
+> If you know how computer works practically, is that enough to invent smart phone?
+
+*** What LMES can do to create Entrepreneurs and Scientists? ***
 
 ---
 
-> Let’s say student’s has good practical knowledge of how computers work. Is that sufficient for them to invent a smart phone..?
-
----
-
-*** What is School For ***
+*** What is School For? ***
 
 ![Video](https://www.youtube.com/embed/sXpbONjV1Jc)
 
 ---
 
-*** Are we asking our kids to collect the dots or connect the dots ? ***
+*** Are we asking our students to collect the dots or connect the dots ? ***
 
 ---
 
