@@ -105,9 +105,11 @@ Instead we need to teach intention to learn.
 
 ---
 
-** Teach how to learn **
+** Shift from Just in case to Just in time learning **
 
-Shift from Just in case to Just in time learning.
+---
+
+** Teach how to learn **
 
 > Today, you need to be a life long learner 
 
@@ -122,6 +124,8 @@ Shift from Just in case to Just in time learning.
 ### Summary ##
 
 > Education is not the learning of facts, but training the mind to think -- Albert Einstien.
+
+### Lets Make Students Think
 
 ---
 
