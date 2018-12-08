@@ -48,7 +48,7 @@
 
 ** Students should know how to connect the dots to succeed in future jobs. **
 
-* In future, most of the manual “factory work” will be replaced by machines.
+In future, most of the manual “factory work” will be replaced by machines.
 
 ---
 
