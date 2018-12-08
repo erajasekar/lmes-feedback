@@ -6,7 +6,7 @@
 
 ---
 
-*** Can just having practical underdanding of knowledge create Entrepreneurs and Scientists? ***
+*** Is just teaching practical underdanding of knowledge enough to Entrepreneurs and Scientists? ***
 
 ---
 
@@ -24,28 +24,33 @@
 
 ---
 
-** Collect the dots **
+** Collect the dots ( Teach knowledge ) **
 
-* Today’s school system teaches students only to collect the dots. i.e collect knowledge.
-* Because education system is created for industrial age. Because knowledge is scarce. So we are thought to collect the dots, scored based on how many dots you have collected.
+* Today’s school system teaches students only to collect the dots.
+* In old age knowledge is scarce. So industrial age introduced educational system to create factory workers.
+* So we are thought to collect the dots, scored based on how many dots you have collected.
 * But school teach nothing about how to connect those dots.
 * We can’t teach connecting dots in a text book.
 
 ---
 
-** Connect the dots **
+** Connect the dots ( Connect knowledge to create ideas ) **
 
-* This is before we had super computer in our packet . The current system is created for world with no wikipedia, no google or internet.
+* The current system is created for world with no wikipedia, no google or internet.
+* Before we had super computer in our packet.
 * In new technological age, all the information is just a click away.
 * In future, most of the manual “factory work” will be replaced by machines.
-* So to succeed in future jobs. Students should know how to connect the dots. As Steve Jobs has said:
-
-
->  Creativity is just connecting things -- Steve Jobs
+* Students should know how to connect the dots to succeed in future jobs. As Steve Jobs has said:
 
 ---
 
-### How schools can teach students to collect the dots and at the same time ensuring that they collect enough dots pass the test?
+>  Creativity is just connecting things -- Steve Jobs
+
+E.g Uber
+
+---
+
+*** How schools can teach students to collect the dots and at the same time ensuring that they collect enough dots pass the test? ***
 
 * People who are happy and successful are not there because they know more stuff or got good grades.
 * They have access to information they need and desire to get it.
@@ -55,13 +60,16 @@
 
 ### We should stop teaching collecting the dots
 
+> Education is not the learning of facts, but training the mind to think -- Albert Einstien.
+
 Instead we need to teach
+
 * Intention to learn.
 * How to go get it?
 
 ---
 
-### What LMES is doing is great job creating “Intention to learn”
+### LMES does great job in creating “Intention to learn”
 
 * Making learning fun and interesting
 * Creating curiosity in students to learn.
@@ -112,6 +120,6 @@ This will help students to perform good in their Job as employee. But if we want
 ### Thank You.
 
 ---
-Education is not the learning of facts, but training the mind to think -- Albert Einstien.
+
 
 
