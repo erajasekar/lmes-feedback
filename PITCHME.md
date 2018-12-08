@@ -133,6 +133,7 @@ Shift from Just in case vs Just in time learning.
 * LMES already doing great job to help students to learn practical knowledge. 
 * They have more than 5 lakh followers. 
 * They work with schools, colleges and conduct workshops. 
+* They work with 600 students every month.
 
 
 ---
