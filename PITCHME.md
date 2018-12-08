@@ -61,7 +61,7 @@ In future, most of the manual “factory work” will be replaced by machines.
 
 ### We should stop teaching collecting the dots
 
-Instead we need to teach intention to learn and how to think.
+Instead we need to teach intention to learn.
 
 ---
 
