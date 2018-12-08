@@ -34,7 +34,7 @@
 
 *** Connect the dots ***
 
->  Creativity is just connecting things -- Steve Jobs
+>  Creativity is just connecting things - Steve Jobs
 
 Uber is a good example.
 
