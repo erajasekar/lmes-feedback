@@ -49,7 +49,6 @@
 ** Students should know how to connect the dots to succeed in future jobs. **
 
 * In future, most of the manual “factory work” will be replaced by machines.
-* We can’t teach connecting dots in a text book.
 
 ---
 
