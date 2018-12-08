@@ -14,7 +14,7 @@
 
 ---
 
-## What is School For ?
+*** What is School For ***
 
 ![Video](https://www.youtube.com/embed/sXpbONjV1Jc)
 
@@ -24,9 +24,9 @@
 
 ---
 
-** Collect the dots ( Teach knowledge ) **
+*** Collect the dots ***
 
-* Today’s school system teaches students only to collect the dots.
+* Today’s school system teaches students only to collect the dots. i.e teach knowledge.
 * In old age knowledge is scarce. So industrial age introduced educational system to create factory workers.
 * So we are thought to collect the dots, scored based on how many dots you have collected.
 * But school teach nothing about how to connect those dots.
@@ -34,17 +34,19 @@
 
 ---
 
-** Connect the dots ( Connect knowledge to create ideas ) **
+*** Connect the dots ***
 
 * The current system is created for world with no wikipedia, no google or internet.
 * Before we had super computer in our packet.
 * In new technological age, all the information is just a click away.
 * In future, most of the manual “factory work” will be replaced by machines.
-* Students should know how to connect the dots to succeed in future jobs. As Steve Jobs has said:
+* Students should know how to connect the dots to succeed in future jobs. 
 
 ---
 
->  Creativity is just connecting things -- Steve Jobs
+** As Steve Jobs has said: **
+
+>  Creativity is just connecting things 
 
 E.g Uber
 
@@ -62,10 +64,7 @@ E.g Uber
 
 > Education is not the learning of facts, but training the mind to think -- Albert Einstien.
 
-Instead we need to teach
-
-* Intention to learn.
-* How to go get it?
+Instead we need to teach untention to learn.
 
 ---
 
@@ -75,8 +74,13 @@ Instead we need to teach
 * Creating curiosity in students to learn.
 * Get practical understanding of knowledge.
 
-This will help students to perform good in their Job as employee. But if we want to create entrepreneurs who can create products or scientists who invent stuff, we also need to teach them to connect dots.
+---
 
+### To create entrepreneurs and scientists 
+
+we also need to teach - How to connect dots? How to think? 
+
+---
 
 ### Few ideas for LMES
 
@@ -84,11 +88,11 @@ This will help students to perform good in their Job as employee. But if we want
 
 * First show wrong way to do it, then how to get insights from it to arrive at correct answer.
 * Encourage students to try something, make mistakes and learn from it.
-* When learning step by step solution to a mathematics problem, most students just memorize the steps. They should learn how to figure out next step by themselves at teach stage.
 
 ---
 
 ** Teaching the process to solve the problem is import that teaching the solution itself **
+
 <img src="assets/image/prob-solving.png" alt="Problem solving" width="600px" height="500px">
 
 ---
@@ -106,16 +110,17 @@ This will help students to perform good in their Job as employee. But if we want
 * Just in case vs Just in time learning *
 
 #### Give opportunity for students to figure out
+
 * In videos, introduce the problem and leave some pause to give a chance for students to figure out themselves.
 * Create a teaser video of a problem and show solution in the next video.
 
 ---
 
-> LMES already doing great job to help students to learn practical knowledge. They have more than 5 lakh followers. They work with schools, colleges and conduct workshops. I just want to pass this idea of “connecting dots” more important that “collecting dots” for future jobs. So when creating content, if LMES can also include problem solving skills or tricks to connect the dots, it can really help create entrepreneurs and scientists.
+> LMES already doing great job to help students to learn practical knowledge. They have more than 5 lakh followers. They work with schools, colleges and conduct workshops. I just want to pass on some ideas for content creation.
+
+So it can benefit lot of students. It can really help create entrepreneurs and scientists.
 
 ---
-
-
 
 ### Thank You.
 
