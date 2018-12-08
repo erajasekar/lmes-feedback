@@ -110,9 +110,11 @@ Instead we need to teach intention to learn and how to think.
 
 ** Teach how to learn **
 
-* Just in case vs Just in time learning *
+* Shift from Just in case vs Just in time learning.
 
 > Today, you need to be a life long learner 
+
+---
 
 ### Give opportunity for students to figure out
 
