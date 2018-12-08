@@ -87,7 +87,7 @@ This will help students to perform good in their Job as employee. But if we want
 
 ** Teach history of Invention **
 
-*How Archimedes calculated approximate value of π 2000 years before ?* 
+*How Archimedes calculated approximate value of `π` 2000 years before ?* 
 
 ![Archimedes](https://cdn-images-1.medium.com/max/1600/1*piVj4NEUtHQSTPH5BXb9_A.gif)
 
