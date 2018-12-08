@@ -52,7 +52,7 @@ In future, most of the manual “factory work” will be replaced by machines.
 
 ---
 
-*** How schools can teach students to collect the dots and at the same time ensuring that they collect enough dots pass the test? ***
+*** How schools can teach students to connect the dots and at the same time ensuring that they collect enough dots pass the test? ***
 
 * People who are happy and successful are not there because they know more stuff or got good grades.
 * They also have to insight and intuition to connect disparate streams of information and turn it in to whole new way of thinking.
