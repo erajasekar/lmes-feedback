@@ -85,6 +85,8 @@ Instead we need to teach intention to learn and how to think.
 
 ### Few ideas for LMES
 
+---
+
 ** Don’t simply teach the solution, but fundamental problem solving skills **
 
 * First show wrong way to do it, then how to get insights from it to arrive at correct answer.
@@ -92,7 +94,7 @@ Instead we need to teach intention to learn and how to think.
 
 ---
 
-** Teaching the process to solve the problem is import that teaching the solution itself **
+** Teaching the process to solve the problem is important that teaching the solution itself **
 
 <img src="assets/image/prob-solving.png" alt="Problem solving" width="600px" height="500px">
 
