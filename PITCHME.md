@@ -70,24 +70,33 @@ Instead we need to teach
 This will help students to perform good in their Job as employee. But if we want to create entrepreneurs who can create products or scientists who invent stuff, we also need to teach them to connect dots.
 
 
-### Few ideas to teach "connecting dots":
+### Few ideas I suggest for LMES
 
-#### Don’t simply teach the solution, but fundamental problem solving skills
+** Don’t simply teach the solution, but fundamental problem solving skills **
 
 * First show wrong way to do it, then how to get insights from it to arrive at correct answer.
 * Encourage students to try something, make mistakes and learn from it.
-* Teaching the process to solve the problem is import that teaching the solution itself.
 * When learning step by step solution to a mathematics problem, most students just memorize the steps. They should learn how to figure out next step by themselves at teach stage.
 
 ---
 
+** Teaching the process to solve the problem is import that teaching the solution itself **
 <img src="assets/image/prob-solving.png" alt="Problem solving" width="600px" height="500px">
-
 
 ---
 
+** Teach history of Invention **
+
+![Archimedes](https://cdn-images-1.medium.com/max/1600/1*piVj4NEUtHQSTPH5BXb9_A.gif)
+
+---
+
+** Teach how to learn **
+
+* Just in case vs Just in time learning *
+
 #### Give opportunity for students to figure out
-* In videos, introduce the problem and leave some pause to give a chance for students to figure out themselves. Or
+* In videos, introduce the problem and leave some pause to give a chance for students to figure out themselves.
 * Create a teaser video of a problem and show solution in the next video.
 
 ---
