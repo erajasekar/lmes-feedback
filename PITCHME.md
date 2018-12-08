@@ -6,7 +6,7 @@
 
 ---
 
-***Can just having practical underdanding of knowledge create Entrepreneurs and Scientists?***
+*** Can just having practical underdanding of knowledge create Entrepreneurs and Scientists? ***
 
 ---
 
@@ -70,7 +70,7 @@ Instead we need to teach
 This will help students to perform good in their Job as employee. But if we want to create entrepreneurs who can create products or scientists who invent stuff, we also need to teach them to connect dots.
 
 
-### Few ideas I suggest for LMES
+### Few ideas for LMES
 
 ** Don’t simply teach the solution, but fundamental problem solving skills **
 
@@ -86,6 +86,8 @@ This will help students to perform good in their Job as employee. But if we want
 ---
 
 ** Teach history of Invention **
+
+* How Archimedes calculated approximate value of π 2000 years before ? * 
 
 ![Archimedes](https://cdn-images-1.medium.com/max/1600/1*piVj4NEUtHQSTPH5BXb9_A.gif)
 
@@ -105,5 +107,11 @@ This will help students to perform good in their Job as employee. But if we want
 
 ---
 
+
+
 ### Thank You.
+
+---
+Education is not the learning of facts, but training the mind to think -- Albert Einstien.
+
 
