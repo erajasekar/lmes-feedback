@@ -68,7 +68,7 @@ Instead we need to teach intention to learn and how to think.
 
 ---
 
-### LMES does great job in creating “Intention to learn”
+** LMES does great job in creating “Intention to learn” **
 
 * Making learning fun and interesting
 * Creating curiosity in students to learn.
@@ -110,13 +110,13 @@ Instead we need to teach intention to learn and how to think.
 
 ** Teach how to learn **
 
-* Shift from Just in case vs Just in time learning.
+Shift from Just in case vs Just in time learning.
 
 > Today, you need to be a life long learner 
 
 ---
 
-### Give opportunity for students to figure out
+** Give opportunity for students to figure out **
 
 * Create a teaser video of a problem and show solution in the next video.
 
@@ -125,6 +125,8 @@ Instead we need to teach intention to learn and how to think.
 ### Key Message ##
 
 > Education is not the learning of facts, but training the mind to think -- Albert Einstien.
+
+---
 
 ### LMES can really help create entrepreneurs and scientists.
 
