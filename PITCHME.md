@@ -137,10 +137,9 @@ Shift from Just in case vs Just in time learning.
 
 
 ---
-
-** I just want to pass on some ideas so it can benefit lot of students. **
-
 ### Thank You.
+
+I just want to pass on some ideas so it can benefit lot of students. 
 
 ---
 
