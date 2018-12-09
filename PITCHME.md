@@ -134,11 +134,9 @@ Instead we need to teach intention to learn.
 * They work with schools, colleges and conduct workshops. 
 * They work with 600 students every month.
 
-
 ---
-### Thank You.
 
-I just want to pass on some ideas so it can benefit lot of students. 
+### Thank You.
 
 ---
 
