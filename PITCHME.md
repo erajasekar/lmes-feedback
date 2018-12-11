@@ -127,6 +127,10 @@ Instead we need to teach intention to learn.
 
 ---
 
+# Lets Make Students Think
+
+---
+
 ** LMES can really help create entrepreneurs and scientists. **
 
 * LMES already doing great job to help students to learn practical knowledge. 
