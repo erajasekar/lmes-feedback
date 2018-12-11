@@ -127,7 +127,7 @@ Instead we need to teach intention to learn.
 
 ---
 
-# Lets Make Students Think
+## Lets Make Students Think
 
 ---
 
