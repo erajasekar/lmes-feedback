@@ -144,7 +144,7 @@ Instead we need to teach intention to learn.
 
 *Please see youtube description for references used in this video.*
 
-<img src="assets/image/like-share.png" alt="youtube like and share" width="300px" height="200px">
+<img src="assets/image/like-share.png" alt="youtube like and share" width="350px" height="250px">
 ---
 
 
