@@ -105,7 +105,7 @@ Instead we need to teach intention to learn.
 
 ---
 
-** Shift from Just in case to Just in time learning **
+## Shift from Just in case to Just in time learning
 
 ---
 
@@ -115,7 +115,7 @@ Instead we need to teach intention to learn.
 
 ---
 
-** Give opportunity for students to figure out **
+## Give opportunity for students to figure out
 
 ---
 
