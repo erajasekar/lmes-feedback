@@ -142,7 +142,7 @@ Instead we need to teach intention to learn.
 
 ## Thank You.
 
-* Please see youtube description for references used in this video.*
+* Please see youtube description for references used in this video. *
 
 ---
 
